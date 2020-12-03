@@ -1,5 +1,6 @@
 # Demo git repositoriy
 ...did some changes here now
+...and this should first go only to local branch, not remote
 
 # Added this line now
 
